@@ -1,2 +1,5 @@
 # hello-world
-just an intro to github
+
+Hello Peoples!
+
+This is just Mongo testing out github.
